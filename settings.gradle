@@ -1,0 +1,4 @@
+include ':app'
+include ':libcore:libcore-support'
+include ':libcore:libcore-base'
+include ':libui:libui-bottomnavigationbar'
